@@ -1,4 +1,4 @@
-# 🚀 Abisha R — Portfolio Website
+#              Abisha R — Portfolio Website
 
 <p align="center">
   <b>Java Full Stack Developer | Building Scalable & User-Friendly Web Applications</b>
